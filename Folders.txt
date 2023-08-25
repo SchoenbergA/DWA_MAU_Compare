@@ -1,0 +1,6 @@
+### DWA MAU Compare Folderstructur
+
+# Data -> Original Data from Maj-Brit
+# Results -> resulting Tables for each item
+# GIS -> Shapefiles for each result table
+# R -> all src
